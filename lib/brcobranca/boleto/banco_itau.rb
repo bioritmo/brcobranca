@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Banco Itaú
 class BancoItau < Brcobranca::Boleto::Base
   # Usado somente em carteiras especiais com registro para complementar o número do cocumento

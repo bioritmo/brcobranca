@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Banco REAL
 class BancoReal < Brcobranca::Boleto::Base
   # Responsável por definir dados iniciais quando se cria uma nova intancia da classe BancoReal

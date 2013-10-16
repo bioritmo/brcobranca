@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Brcobranca
   module Boleto
     # Classe base para todas as classes de boletos

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Banco do Brasil
 class BancoBrasil < Brcobranca::Boleto::Base
 

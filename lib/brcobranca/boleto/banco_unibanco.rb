@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Banco UNIBANCO
 class BancoUnibanco < Brcobranca::Boleto::Base
   # Responsável por definir dados iniciais quando se cria uma nova intancia da classe BancoUnibanco

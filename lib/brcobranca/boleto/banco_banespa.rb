@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Banco BANESPA
 class BancoBanespa < Brcobranca::Boleto::Base
 

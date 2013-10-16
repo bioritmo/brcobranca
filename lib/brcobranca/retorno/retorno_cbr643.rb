@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 require 'parseline'
 
 # Formato de Retorno CNAB 643

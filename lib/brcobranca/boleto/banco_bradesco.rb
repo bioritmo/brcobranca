@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Banco BRADESCO
 class BancoBradesco < Brcobranca::Boleto::Base
   # Responsável por definir dados iniciais quando se cria uma nova intancia da classe BancoBradesco

@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 # Implementação feita por Nando Vieira do http://simplesideias.com.br
 # post http://simplesideias.com.br/usando-number_to_currency-em-modelos-no-rails
 module Brcobranca #:nodoc:[all]

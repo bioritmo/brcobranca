@@ -1,3 +1,4 @@
+# -*- encoding : utf-8 -*-
 module Brcobranca
   # Métodos auxiliares de formatação
   module Formatacao
